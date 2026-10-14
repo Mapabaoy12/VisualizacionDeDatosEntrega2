@@ -1,0 +1,4 @@
+Estimado profesor, al intentar ensayar el día anterior de la presentación, nos dimos cuenta que enviamos los dashboards en formato pbit, 
+que solo es la plantilla y no son los dashboards .pbix comprimidos. El motivo por el cual enviamos pbit es porque GitHub no permite archivos más pesados, 
+y el Entregable.pbix pesaba +25 MB. El link en donde se puede evidenciar que no hicimos modificaciones después del 12 de octubre es:
+https://drive.google.com/drive/folders/18OxbFSKHIfJUgPFvcm022qLEB-x-wkWe?usp=drive_link
